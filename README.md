@@ -12,5 +12,11 @@ This repo include the implementation of mixed-form physics-informed neural netwo
 - **PINN_steady**: Implementation for steady flow with PINN;
 - **PINN_unsteady**: Implementation for unsteady flow with PINN;
 
+# Results
+
+![](https://github.com/Raocp/PINN-laminar-flow/blob/master/PINN_steady/uvp.png)
+
+> Steady flow past a cylinder (left: physics-informed neural network; right: Ansys Fluent.)
+
 # Note
 - These implementations were developed and tested on the GPU version of TensorFlow 1.10.0. 
