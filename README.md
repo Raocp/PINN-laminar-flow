@@ -8,7 +8,7 @@ This repo include the implementation of mixed-form physics-informed neural netwo
 
 # Description for each folder
 - **FluentReferenceMu002**: Reference solution from Ansys Fluent for steady flow;
-- **FluentReferenceUnsteady**: Reference solution from Ansys Fluent for unsteady flow;
+<!--- - **FluentReferenceUnsteady**: Reference solution from Ansys Fluent for unsteady flow; --->
 - **PINN_steady**: Implementation for steady flow with PINN;
 - **PINN_unsteady**: Implementation for unsteady flow with PINN;
 
