@@ -6,6 +6,8 @@ This repo include the implementation of mixed-form physics-informed neural netwo
 
 [Chengping Rao, Hao Sun and Yang Liu. Physics-informed deep learning for incompressible laminar flows.](https://arxiv.org/abs/2002.10558)
 
+- This paper has been published by TAML, those who has access to Elsevier database can refer to https://www.sciencedirect.com/science/article/pii/S2095034920300350 for camera-ready version. 
+
 # Description for each folder
 - **FluentReferenceMu002**: Reference solution from Ansys Fluent for steady flow;
 <!--- - **FluentReferenceUnsteady**: Reference solution from Ansys Fluent for unsteady flow; --->
